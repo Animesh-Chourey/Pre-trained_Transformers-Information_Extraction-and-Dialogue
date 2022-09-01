@@ -1,4 +1,4 @@
-# Pre-trained Transformers, Information Extraction and Dialogue
+# Pre-trained Transformers, Information Extraction and Dialogue System
 
 This project focuses mostly on the implementation of large pre-trained language models. The techniques implemented are used on these domains - information extraction, coreference resolution and dialogue systems.
 
